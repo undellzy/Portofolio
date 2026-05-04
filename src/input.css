@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* menambhakan warna primary secondary */
+@theme {
+    --color-biru-dark: #011E2D;
+    --color-biru-muda: #38BDF8;
+}
